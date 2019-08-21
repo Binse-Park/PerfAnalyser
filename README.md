@@ -1,20 +1,13 @@
 Introduction
 ============
 
- This project provides a command set to analysis the linux systenm to advance the perfomance of linux.
+ The PerfAnalyser is an android application to check the performance of linux scheduler in the android system.
  
 Motivations
 ===========
 
 The main goals of Perf Analyser are:
--  Gatherring the information of the processor with linux to use perf command. 
--  Logging linux kernel system.
+-  to start multiple periodic threads in order to simulate a real-time periodic load.
+-  to measure the periodic threads.
 
-
-Install
-=======
-
-- [**Install of lisa project**](https://lisa-linux-integrated-system-analysis.readthedocs.io/en/master/setup.html)
-- copy aapt-arm-pie file to the path of lisa project.
-- open ipynb to use jupyternotebook in lisa project.
 
