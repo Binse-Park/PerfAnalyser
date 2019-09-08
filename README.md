@@ -15,6 +15,7 @@ The main goals of Perf Analyser are:
 - to measure cache hits rate after periodic threads are started.
 - to measure page faults rate after periodic threads are started.
 - to measure cpu-cycles after periodic threads are started.
+- to measure bus rate after periodic threads are started.
 
 
 External Links
