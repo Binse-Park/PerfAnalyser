@@ -24,5 +24,3 @@ External Links
 - [Linux-PSI(pressure stall information)](https://lwn.net/Articles/763629/) for CPU, memory, and IO
 - [Simpleperf](https://android.googlesource.com/platform/system/extras/+/master/simpleperf/doc/README.md)
 
-
-Tool is for analysis of performance.
